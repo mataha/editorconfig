@@ -8,13 +8,13 @@ indent_style = space
 insert_final_newline = true
 trim_trailing_whitespace = true
 
-[*.{bat,cmd,url}]
+[*.{bat,cmd,dos,url}] #[*.{klc,reg}]
 # See https://github.com/editorconfig/editorconfig/issues/209
 charset = latin1
 end_of_line = crlf
 
-[*.{ca,json,sls,xml,yaml,yml}]
+[*.{ca,json,plist,sls,xml,yaml,yml}]
 indent_size = 2
 
-[*.{markdown,md,mdx,rst,snap}]
+[*.{markdown,md,mdown,mdx,rst,snap}]
 trim_trailing_whitespace = false
