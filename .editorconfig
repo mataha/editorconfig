@@ -17,4 +17,5 @@ end_of_line = crlf
 indent_size = 2
 
 [*.{adoc,markdown,md,mdown,mdx,rst,snap,txt}]
+indent_size = unset
 trim_trailing_whitespace = false
