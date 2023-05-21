@@ -8,6 +8,10 @@ indent_style = space
 insert_final_newline = true
 trim_trailing_whitespace = true
 
+[*{Make,make,mk}file]
+indent_size = unset
+indent_style = tab
+
 [*.{bat,cmd,dos,url}]
 # See https://github.com/editorconfig/editorconfig/issues/209
 charset = unset
