@@ -10,7 +10,7 @@ trim_trailing_whitespace = true
 
 [*.{bat,cmd,dos,url}]
 # See https://github.com/editorconfig/editorconfig/issues/209
-charset = latin1
+charset = unset
 end_of_line = crlf
 
 [*.{ca,css,html,json,plist,sls,xml,yaml,yml}]
