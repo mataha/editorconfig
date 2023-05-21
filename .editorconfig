@@ -12,7 +12,7 @@ trim_trailing_whitespace = true
 indent_size = unset
 indent_style = tab
 
-[*.{bat,cmd,dos,inf,ps1,psc1,psd1,psm1,sct,reg,url}]
+[*.{bat,cmd,dos,inf,jse,ps1,psc1,psd1,psm1,sct,reg,url,wsc,wsf,wsh}]
 # See https://github.com/editorconfig/editorconfig/issues/209
 charset = unset
 end_of_line = crlf
