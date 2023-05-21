@@ -17,7 +17,7 @@ indent_style = tab
 charset = unset
 end_of_line = crlf
 
-[*.{cson,css,html,json,plist,sls,xml,yaml,yml}]
+[*.{cson,css,htm,html,json,mht,mhtml,plist,sls,xml,yaml,yml}]
 indent_size = 2
 insert_final_newline = unset
 
