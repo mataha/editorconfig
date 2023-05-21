@@ -12,7 +12,7 @@ trim_trailing_whitespace = true
 indent_size = unset
 indent_style = tab
 
-[*.{bat,cmd,dos,inf,jse,klc,ps1,psc1,psd1,psm1,sct,reg,url,vbe,vbs,wsc,wsf,wsh}]
+[*.{bat,cmd,dos,inf,jse,klc,ps1,psc1,psd1,psm1,reg,sct,url,vbe,vbs,wsc,wsf,wsh}]
 charset = unset
 end_of_line = crlf
 
